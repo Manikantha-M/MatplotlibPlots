@@ -15,5 +15,5 @@ explode=[0,0,0,0.1,0]
 
 plt.pie(slices,labels=labels,explode=explode,shadow=True,startangle=90,autopct="%1.1f%%",
         wedgeprops={"edgecolor":"black"})
-plt.title("Pychart")
+plt.title("Pie chart")
 plt.show()
