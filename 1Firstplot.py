@@ -1,17 +1,3 @@
-#### Notes X-Y plot ####
-# from matplotlib import pyplot as plt
-# # plt.xkcd()
-# x=[1,2,3,4,5,6,7,8,9,10]
-# y=[20,34,56,21,3,4,7,9,77,99]
-# plt.plot(x,y,"r",label="Random graph")
-# plt.legend()
-# plt.title("Some graph")
-# plt.xlabel("X axis")
-# plt.ylabel("Y axis")
-# plt.grid(True)
-# # plt.tight_layout()
-# plt.show()
-
 from matplotlib import pyplot as plt
 # print(plt.style.available)
 # plt.style.use("fivethirtyeight")
