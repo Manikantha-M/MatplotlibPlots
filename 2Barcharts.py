@@ -1,18 +1,3 @@
-#### Notes Bar Chart ####
-# from matplotlib import pyplot as plt
-# plt.style.use("seaborn")
-# x=[1,2,3,4,5,6,7,8,9,10]
-# y=[20,34,56,21,3,4,7,9,77,99]
-# plt.bar(x,y,label="Random graph")
-# plt.legend()
-# plt.title("Some graph")
-# plt.xlabel("X axis")
-# plt.ylabel("Y axis")
-# plt.grid(True)
-# # plt.tight_layout()
-# plt.show()
-
-
 # import numpy as np
 # from matplotlib import pyplot as plt
 # plt.style.use("seaborn")
