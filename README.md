@@ -9,8 +9,13 @@
  <p align="center">
   <img src="Bar1.png">
 </p>
+
+## 3. Dev Salary VS their Age
+<p align="center">
+  <img src="Bar2.png">
+</p>
   
-  ## 3. Programming languages VS their popularity
+ ## 4. Programming languages VS their popularity
   <p align="center">
     <img src="2.Barchart.png">
   </p>
