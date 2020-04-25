@@ -19,3 +19,8 @@
   <p align="center">
     <img src="2.Barchart.png">
   </p>
+  
+## 5. Pie Chart of Popularity of Programming languages
+<p align="center">
+    <img src="PieChart.png">
+  </p>
