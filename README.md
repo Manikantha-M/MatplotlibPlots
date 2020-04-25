@@ -5,7 +5,12 @@
    <img src="1plot.png">
   </p>
   
-  ## 2. Programming languages VS their popularity
+ ## 3. Barchart
+ <p align="center">
+  <img src="Bar1.png">
+</p>
+  
+  ## 3. Programming languages VS their popularity
   <p align="center">
     <img src="2.Barchart.png">
   </p>
