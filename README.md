@@ -22,6 +22,6 @@
   
 ## 5. Pie Chart of Popularity of Programming languages
 <p align="center">
-    <img src="PieChart.png">
+    <img src="3PieChart.png">
   </p>
   
