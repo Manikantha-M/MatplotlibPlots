@@ -25,7 +25,7 @@
     <img src="3PieChart.png">
   </p>
   
- ## 6. Stack plots
+ ## 6. Stack plots (Dev working hours)
  <p align="center">
     <img src="4Stackplot.png">
   </p>
