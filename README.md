@@ -33,3 +33,9 @@
   <p align="center">
     <img src="5filluline.png">
   </p>
+  
+  ## 8. Histogram
+  <p align="center">
+    <img src="6Histogram.png">
+  </p>
+  
