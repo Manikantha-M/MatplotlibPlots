@@ -25,3 +25,5 @@
     <img src="3PieChart.png">
   </p>
   
+ ## 6. Stack plots
+ 
