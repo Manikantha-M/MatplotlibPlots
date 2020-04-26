@@ -26,4 +26,7 @@
   </p>
   
  ## 6. Stack plots
+ <p align="center">
+    <img src="4Stackplot.png">
+  </p>
  
