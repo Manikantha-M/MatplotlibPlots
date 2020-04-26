@@ -1,4 +1,13 @@
 # Some Matplotlib Plots
+## Covid-19 AP and TS
+ <p align="center">
+   <img src="CovidAP.png">
+  </p>
+
+ <p align="center">
+   <img src="CovidTS.png">
+  </p>
+  
   ## 1. Dev Salary VS their Age
   <p align="center">
    <img src="1plot.png">
