@@ -30,7 +30,7 @@
     <img src="4Stackplot.png">
   </p>
  
- ## 7. Fill Area under Line
+ ## 7. Fill the Area under Line
   <p align="center">
     <img src="5filluline.png">
   </p>
