@@ -39,3 +39,8 @@
     <img src="6Histogram.png">
   </p>
   
+  ## 9. Scatter Plot
+  <p align="center">
+    <img src="7Scatterplot.png">
+  </p>
+  
