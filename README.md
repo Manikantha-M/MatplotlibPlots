@@ -1,11 +1,13 @@
 # Some Matplotlib Plots
-
+1. Dev Salary VS their Age
+2. Barchart
+3. Dev Salary VS their Age
   ## 1. Dev Salary VS their Age
   <p align="center">
    <img src="1plot.png">
   </p>
   
- ## 3. Barchart
+ ## 2. Barchart
  <p align="center">
   <img src="Bar1.png">
 </p>
